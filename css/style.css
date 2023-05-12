@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgb(28, 51, 151);
+    background-color: rgb(11, 2, 12);
     color: white;
 }
 #contenedorppal{
@@ -16,7 +16,7 @@ body{
 }
 header{
     height: 150px;
-    background: #000;
+    background: #868686;
 }
 header h1{
     font-size: 50px;
@@ -70,6 +70,7 @@ footer h2{
     text-align: center;
     padding: 40px;
     font-style: italic;
+    border-radius: 20px;
 }
 #contenedorppal{
     width: 960px;
